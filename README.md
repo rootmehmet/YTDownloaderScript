@@ -1,2 +1,9 @@
-# YTDownloaderScript
-Bu repo, yt-dlp kullanarak video ve sesleri ayrı ayrı indirip otomatik olarak birleştiren, MP3 dönüştürme ve SponsorBlock desteği sunan bir bash script içerir. Terminal tabanlıdır, ekstra kütüphane gerektirmez ve kullanıcı dostu olacak şekilde tasarlanmıştır.
+## Özellikler
+
+- ✅ Video ve ses **ayrı indiriliyor**, otomatik olarak birleştiriliyor.
+- ✅ MP3 indirme desteği: sadece sesi almak isteyenler için.
+- ✅ SponsorBlock desteği: sıkıcı sponsor videolarına “elveda” deyin.
+- ✅ Video aralığı seçme: yalnızca istediğiniz kısmı indirin.
+- ✅ Ekstra kütüphane veya paket gerektirmez, sadece Bash ve yt-dlp yeterli.
+
+---
